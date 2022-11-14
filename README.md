@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Jambo! 👋, I'm Njeri.</h1>
 <h3 align="center">I am a curious Software Engineer with a passion for Cyber Security.</h3>
 
+<!-- <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p> -->
+
+<img alt="GIF" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njerikamau&label=Profile%20views&color=0e75b6&style=flat" alt="njerikamau" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njerikamau" alt="njerikamau" /></a> </p>
