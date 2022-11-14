@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="width:100%;height:0;margin-bottom:56%;position:relative;"><img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njerikamau" alt="njerikamau" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njerikamau" alt="njerikamau" /></a> </p>
 
 <h2>
 
