@@ -18,18 +18,19 @@ Here are some ideas to get you started:
 <h1 align="center">Jambo! 👋, I'm Njeri.</h1>
 <h3 align="center">I am a curious Software Engineer with a passion for Cyber Security.</h3>
 
-
- 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW.gif">via GIPHY</a></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njerikamau&label=Profile%20views&color=0e75b6&style=flat" alt="njerikamau" /> </p>
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njerikamau" alt="njerikamau" /></a> </p>
+
+<h2>
 
 - 🌱 I’m currently learning **Android Reverse Engineering and API Security**
 
 - 💬 Ask me about **C, Python, Odoo, Assembly, JSON**
+ 
+ </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
