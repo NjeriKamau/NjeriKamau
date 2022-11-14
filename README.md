@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njerikamau&label=Profile%20views&color=0e75b6&style=flat" alt="njerikamau" /> </p>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
+<div align="center" style="width:100%;height:0;margin-bottom:56%;position:relative;"><img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njerikamau" alt="njerikamau" /></a> </p>
 
